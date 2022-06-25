@@ -3,7 +3,7 @@ module tailscale.com
 go 1.17
 
 require (
-	filippo.io/mkcert v1.4.3
+	filippo.io/mkcert v1.4.4
 	github.com/alexbrainman/sspi v0.0.0-20210105120005-909beea2cc74
 	github.com/anmitsu/go-shlex v0.0.0-20200514113438-38f4b401e2be // indirect
 	github.com/aws/aws-sdk-go v1.38.52
@@ -40,11 +40,11 @@ require (
 	github.com/toqueteos/webbrowser v1.2.0
 	github.com/ulikunitz/xz v0.5.10 // indirect
 	go4.org/mem v0.0.0-20201119185036-c04c5a6ff174
-	golang.org/x/crypto v0.0.0-20210817164053-32db794688a5
-	golang.org/x/net v0.0.0-20210903162142-ad29c8ab022f
+	golang.org/x/crypto v0.0.0-20220331220935-ae2d96664a29
+	golang.org/x/net v0.0.0-20220421235706-1d1ef9303861
 	golang.org/x/sync v0.0.0-20210220032951-036812b2e83c
-	golang.org/x/sys v0.0.0-20210906170528-6f6e22806c34
-	golang.org/x/term v0.0.0-20210503060354-a79de5458b56
+	golang.org/x/sys v0.0.0-20211216021012-1d35b9e2eb4e
+	golang.org/x/term v0.0.0-20210927222741-03fcf44c2211
 	golang.org/x/time v0.0.0-20210611083556-38a9dc6acbc6
 	golang.org/x/tools v0.1.7
 	golang.zx2c4.com/wireguard v0.0.0-20210905140043-2ef39d47540c
@@ -190,10 +190,10 @@ require (
 	gopkg.in/warnings.v0 v0.1.2 // indirect
 	gopkg.in/yaml.v2 v2.4.0 // indirect
 	gopkg.in/yaml.v3 v3.0.0-20200615113413-eeeca48fe776 // indirect
-	howett.net/plist v0.0.0-20181124034731-591f970eefbb // indirect
+	howett.net/plist v1.0.0 // indirect
 	mvdan.cc/gofumpt v0.0.0-20201129102820-5c11c50e9475 // indirect
 	mvdan.cc/interfacer v0.0.0-20180901003855-c20040233aed // indirect
 	mvdan.cc/lint v0.0.0-20170908181259-adc824a0674b // indirect
 	mvdan.cc/unparam v0.0.0-20200501210554-b37ab49443f7 // indirect
-	software.sslmate.com/src/go-pkcs12 v0.0.0-20180114231543-2291e8f0f237 // indirect
+	software.sslmate.com/src/go-pkcs12 v0.2.0 // indirect
 )
