@@ -19,7 +19,7 @@ jobs:
         id: go
 
       - name: Checkout Code
-        uses: actions/checkout@v1
+        uses: actions/checkout@v3
 
       - name: Run VM tests
         run: go test ./tstest/integration/vms -v -no-s3 -run-vm-tests -run=TestRunUbuntu2004
