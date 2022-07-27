@@ -6,7 +6,7 @@ require (
 	filippo.io/mkcert v1.4.3
 	github.com/alexbrainman/sspi v0.0.0-20210105120005-909beea2cc74
 	github.com/anmitsu/go-shlex v0.0.0-20200514113438-38f4b401e2be // indirect
-	github.com/aws/aws-sdk-go v1.38.52
+	github.com/aws/aws-sdk-go v1.44.64
 	github.com/coreos/go-iptables v0.6.0
 	github.com/creack/pty v1.1.16
 	github.com/dave/jennifer v1.4.1
@@ -41,10 +41,10 @@ require (
 	github.com/ulikunitz/xz v0.5.10 // indirect
 	go4.org/mem v0.0.0-20201119185036-c04c5a6ff174
 	golang.org/x/crypto v0.0.0-20210817164053-32db794688a5
-	golang.org/x/net v0.0.0-20210903162142-ad29c8ab022f
+	golang.org/x/net v0.0.0-20220127200216-cd36cc0744dd
 	golang.org/x/sync v0.0.0-20210220032951-036812b2e83c
-	golang.org/x/sys v0.0.0-20210906170528-6f6e22806c34
-	golang.org/x/term v0.0.0-20210503060354-a79de5458b56
+	golang.org/x/sys v0.0.0-20211216021012-1d35b9e2eb4e
+	golang.org/x/term v0.0.0-20210927222741-03fcf44c2211
 	golang.org/x/time v0.0.0-20210611083556-38a9dc6acbc6
 	golang.org/x/tools v0.1.7
 	golang.zx2c4.com/wireguard v0.0.0-20210905140043-2ef39d47540c
